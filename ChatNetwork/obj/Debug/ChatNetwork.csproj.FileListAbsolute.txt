@@ -1,0 +1,5 @@
+c:\Users\rustammm\documents\visual studio 2015\Projects\ChatRoom\ChatNetwork\bin\Debug\ChatNetwork.dll
+c:\Users\rustammm\documents\visual studio 2015\Projects\ChatRoom\ChatNetwork\bin\Debug\ChatNetwork.pdb
+c:\Users\rustammm\documents\visual studio 2015\Projects\ChatRoom\ChatNetwork\obj\Debug\ChatNetwork.csprojResolveAssemblyReference.cache
+c:\Users\rustammm\documents\visual studio 2015\Projects\ChatRoom\ChatNetwork\obj\Debug\ChatNetwork.dll
+c:\Users\rustammm\documents\visual studio 2015\Projects\ChatRoom\ChatNetwork\obj\Debug\ChatNetwork.pdb
